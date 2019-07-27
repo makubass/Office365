@@ -1,3 +1,5 @@
+Connect-AzureAD
+
 $orgName="dondoco01"
 $loc="JP"
 $commonPW="D0nd0c0d0N"
