@@ -1,6 +1,6 @@
 ## Office365 への接続
 
-$orgName="dondoko01"
+$orgName="dondoco01"
 $credential = Get-Credential
 Connect-MsolService -Credential $credential
 
